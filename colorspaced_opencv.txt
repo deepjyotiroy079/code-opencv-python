@@ -1,0 +1,7 @@
+- RGB represents colors as a combination of Red, Green and Blue
+- HSL cylinder model
+    - Hue           : the actual colors.
+    - Saturation    : How much of the color do you want.
+    - Lightness     : how light or dark the color is.
+
+- cvtColor - convert between colorspaces.
